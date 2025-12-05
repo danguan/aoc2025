@@ -1,4 +1,4 @@
-# aoc2024
+# aoc2025
 Code snippets for Advent of Code 2025
 
 ## Usage
